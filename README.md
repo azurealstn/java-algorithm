@@ -8,3 +8,5 @@
 
 - [1260번: DFS와 BFS](./src/algorithm/dfs/code/dfs1.md) 
 - [2606번: 바이러스](./src/algorithm/dfs/code/dfs2.md)
+- [2667번: 단지번호붙이기](./src/algorithm/dfs/code/dfs3.md)
+- [1012번: 유기농 배추](./src/algorithm/dfs/code/dfs4.md)
