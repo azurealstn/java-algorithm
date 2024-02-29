@@ -16,3 +16,5 @@
 - ⭕ [4963번: 섬의 개수](./src/algorithm/dfs/code/dfs8.md) - 실버2
 - ⭕ [11725번: 트리의 부모 찾기](./src/algorithm/dfs/code/dfs9.md) - 실버2
 - ⭕ [2583번: 영역 구하기](./src/algorithm/dfs/code/dfs10.md) - 실버1
+- ⭕ [2178번: 미로 탐색](./src/algorithm/bfs/code/bfs1.md) - 실버1
+- ⭕ [7576번: 토마토](./src/algorithm/bfs/code/bfs2.md) - 골드5
