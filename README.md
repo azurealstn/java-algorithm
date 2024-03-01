@@ -23,3 +23,5 @@
 - ⭕ [7576번: 토마토](./src/algorithm/bfs/code/bfs2.md) - 골드5
 - ❌ [14502번: 연구소](./src/algorithm/bfs/code/bfs3.md) - 골드4
 - ❌ [7569번: 토마토](./src/algorithm/bfs/code/bfs4.md) - 골드5
+- ❌ [7562번: 나이트의 이동](./src/algorithm/bfs/code/bfs5.md) - 실버1
+- ❌ [16236번: 아기 상어](./src/algorithm/bfs/code/bfs6.md) - 골드3
