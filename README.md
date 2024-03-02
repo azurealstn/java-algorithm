@@ -25,3 +25,5 @@
 - ❌ [7569번: 토마토](./src/algorithm/bfs/code/bfs4.md) - 골드5
 - ❌ [7562번: 나이트의 이동](./src/algorithm/bfs/code/bfs5.md) - 실버1
 - ❌ [16236번: 아기 상어](./src/algorithm/bfs/code/bfs6.md) - 골드3
+- ❌ [16953번: A → B](./src/algorithm/bfs/code/bfs7.md) - 실버2
+- ❌ [16234번: 인구 이동](./src/algorithm/bfs/code/bfs8.md) - 골드4
