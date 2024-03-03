@@ -27,3 +27,5 @@
 - ❌ [16236번: 아기 상어](./src/algorithm/bfs/code/bfs6.md) - 골드3
 - ❌ [16953번: A → B](./src/algorithm/bfs/code/bfs7.md) - 실버2
 - ❌ [16234번: 인구 이동](./src/algorithm/bfs/code/bfs8.md) - 골드4
+- ❌ [1389번: 케빈 베이컨의 6단계 법칙](./src/algorithm/bfs/code/bfs9.md) - 실버1
+- ⭕ [5014번: 스타트링크](./src/algorithm/bfs/code/bfs10.md) - 실버1
