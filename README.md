@@ -29,3 +29,10 @@
 - ❌ [16234번: 인구 이동](./src/algorithm/bfs/code/bfs8.md) - 골드4
 - ❌ [1389번: 케빈 베이컨의 6단계 법칙](./src/algorithm/bfs/code/bfs9.md) - 실버1
 - ⭕ [5014번: 스타트링크](./src/algorithm/bfs/code/bfs10.md) - 실버1
+
+## 프로그래머스(Programmers)
+
+### Lv1
+
+- ✅ [약수의 합](./src/algorithm/programmers/lv1/약수의합.java)
+- ✅ [부족한 금액 계산하기](./src/algorithm/programmers/lv1/부족한_금액_계산하기.java)
