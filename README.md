@@ -36,3 +36,4 @@
 
 - ✅ [약수의 합](./src/algorithm/programmers/lv1/약수의합.java)
 - ✅ [부족한 금액 계산하기](./src/algorithm/programmers/lv1/부족한_금액_계산하기.java)
+- ✅ [최대공약수와 최소공배수](./src/algorithm/programmers/lv1/최대공약수와_최소공배수.java)
