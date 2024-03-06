@@ -3,6 +3,11 @@ package algorithm.programmers.lv1;
 import java.util.*;
 import java.io.*;
 
+/**
+ * 2024-03-05
+ * 최대공약수와 최소공배수 (Lv1)
+ * not solved ❌
+ */
 public class 최대공약수와_최소공배수 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

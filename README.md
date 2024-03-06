@@ -36,4 +36,7 @@
 
 - ✅ [약수의 합](./src/algorithm/programmers/lv1/약수의합.java)
 - ✅ [부족한 금액 계산하기](./src/algorithm/programmers/lv1/부족한_금액_계산하기.java)
-- ✅ [최대공약수와 최소공배수](./src/algorithm/programmers/lv1/최대공약수와_최소공배수.java)
+- ❌ [최대공약수와 최소공배수](./src/algorithm/programmers/lv1/최대공약수와_최소공배수.java)
+- ✅ [예산](./src/algorithm/programmers/lv1/예산.java)
+- ✅ [크기가 작은 부분 문자열](./src/algorithm/programmers/lv1/크기가_작은_부분_문자열.java)
+- ❌ [최소직사각형](./src/algorithm/programmers/lv1/최소직사각형.java)
