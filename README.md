@@ -40,3 +40,4 @@
 - ✅ [예산](./src/algorithm/programmers/lv1/예산.java)
 - ✅ [크기가 작은 부분 문자열](./src/algorithm/programmers/lv1/크기가_작은_부분_문자열.java)
 - ❌ [최소직사각형](./src/algorithm/programmers/lv1/최소직사각형.java)
+- ❌ [가장 가까운 같은 글자](./src/algorithm/programmers/lv1/가장_가까운_같은_글자.java)
