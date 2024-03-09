@@ -41,3 +41,6 @@
 - ✅ [크기가 작은 부분 문자열](./src/algorithm/programmers/lv1/크기가_작은_부분_문자열.java)
 - ❌ [최소직사각형](./src/algorithm/programmers/lv1/최소직사각형.java)
 - ❌ [가장 가까운 같은 글자](./src/algorithm/programmers/lv1/가장_가까운_같은_글자.java)
+- ✅ [숫자 문자열과 영단어](./src/algorithm/programmers/lv1/숫자_문자열과_영단어.java)
+- ✅ [푸드 파이트 대회](./src/algorithm/programmers/lv1/푸드_파이트_대회.java)
+- ✅ [K번째수](./src/algorithm/programmers/lv1/K번째수.java)
