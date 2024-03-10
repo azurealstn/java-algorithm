@@ -44,3 +44,6 @@
 - ✅ [숫자 문자열과 영단어](./src/algorithm/programmers/lv1/숫자_문자열과_영단어.java)
 - ✅ [푸드 파이트 대회](./src/algorithm/programmers/lv1/푸드_파이트_대회.java)
 - ✅ [K번째수](./src/algorithm/programmers/lv1/K번째수.java)
+- ✅ [두 개 뽑아서 더하기](./src/algorithm/programmers/lv1/두_개_뽑아서_더하기.java)
+- ✅ [문자열 내 마음대로 정렬하기](./src/algorithm/programmers/lv1/문자열_내_마음대로_정렬하기.java)
+- ✅ [[1차] 비밀지도](./src/algorithm/programmers/lv1/비밀지도_1차.java)
