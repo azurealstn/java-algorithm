@@ -47,3 +47,6 @@
 - ✅ [두 개 뽑아서 더하기](./src/algorithm/programmers/lv1/두_개_뽑아서_더하기.java)
 - ✅ [문자열 내 마음대로 정렬하기](./src/algorithm/programmers/lv1/문자열_내_마음대로_정렬하기.java)
 - ✅ [[1차] 비밀지도](./src/algorithm/programmers/lv1/비밀지도_1차.java)
+- ✅ [콜라 문제](./src/algorithm/programmers/lv1/콜라_문제.java)
+- ✅ [명예의 전당 (1)](./src/algorithm/programmers/lv1/명예의_전당_1.java)
+- ✅ [추억 점수](./src/algorithm/programmers/lv1/추억_점수.java)
