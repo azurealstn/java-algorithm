@@ -50,3 +50,7 @@
 - ✅ [콜라 문제](./src/algorithm/programmers/lv1/콜라_문제.java)
 - ✅ [명예의 전당 (1)](./src/algorithm/programmers/lv1/명예의_전당_1.java)
 - ✅ [추억 점수](./src/algorithm/programmers/lv1/추억_점수.java)
+- ❌ [카드 뭉치](./src/algorithm/programmers/lv1/카드_뭉치.java)
+- ❌ [2016년](./src/algorithm/programmers/lv1/Year2016.java)
+- ✅ [폰켓몬](./src/algorithm/programmers/lv1/폰켓몬.java)
+- ✅ [모의고사](./src/algorithm/programmers/lv1/모의고사.java)
