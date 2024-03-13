@@ -54,3 +54,6 @@
 - ❌ [2016년](./src/algorithm/programmers/lv1/Year2016.java)
 - ✅ [폰켓몬](./src/algorithm/programmers/lv1/폰켓몬.java)
 - ✅ [모의고사](./src/algorithm/programmers/lv1/모의고사.java)
+- ✅ [과일 장수](./src/algorithm/programmers/lv1/과일_장수.java)
+- ✅ [기사단원의 무기](./src/algorithm/programmers/lv1/기사단원의_무기.java)
+- ❌ [소수 만들기](./src/algorithm/programmers/lv1/소수_만들기.java)
