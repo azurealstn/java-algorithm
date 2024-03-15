@@ -59,3 +59,5 @@
 - ❌ [소수 만들기](./src/algorithm/programmers/lv1/소수_만들기.java)
 - ✅ [소수 찾기](./src/algorithm/programmers/lv1/소수_찾기.java)
 - ❌ [덧칠하기](./src/algorithm/programmers/lv1/덧칠하기.java)
+- ❌ [실패율](./src/algorithm/programmers/lv1/실패율.java)
+- ❌ [옹알이 (2)](./src/algorithm/programmers/lv1/옹알이2.java)
