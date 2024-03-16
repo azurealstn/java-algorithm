@@ -61,3 +61,5 @@
 - ❌ [덧칠하기](./src/algorithm/programmers/lv1/덧칠하기.java)
 - ❌ [실패율](./src/algorithm/programmers/lv1/실패율.java)
 - ❌ [옹알이 (2)](./src/algorithm/programmers/lv1/옹알이2.java)
+- ❌ [[1차] 다트 게임](./src/algorithm/programmers/lv1/다트_게임_1차.java)
+- ✅ [로또의 최고순위와 최저순위](./src/algorithm/programmers/lv1/로또의_최고순위와_최저순위.java)
