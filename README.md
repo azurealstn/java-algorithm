@@ -63,3 +63,6 @@
 - ❌ [옹알이 (2)](./src/algorithm/programmers/lv1/옹알이2.java)
 - ❌ [[1차] 다트 게임](./src/algorithm/programmers/lv1/다트_게임_1차.java)
 - ✅ [로또의 최고순위와 최저순위](./src/algorithm/programmers/lv1/로또의_최고순위와_최저순위.java)
+- ❌ [문자열 나누기](./src/algorithm/programmers/lv1/문자열_나누기.java)
+- ✅ [대충 만든 자판](./src/algorithm/programmers/lv1/로또의_최고순위와_최저순위.java)
+- ❌ [체육복](./src/algorithm/programmers/lv1/체육복.java)
