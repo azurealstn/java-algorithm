@@ -66,3 +66,6 @@
 - ❌ [문자열 나누기](./src/algorithm/programmers/lv1/문자열_나누기.java)
 - ✅ [대충 만든 자판](./src/algorithm/programmers/lv1/로또의_최고순위와_최저순위.java)
 - ❌ [체육복](./src/algorithm/programmers/lv1/체육복.java)
+- ❌ [숫자 짝궁](./src/algorithm/programmers/lv1/숫자_짝궁.java)
+- ✅ [완주하지 못한 선수](./src/algorithm/programmers/lv1/완주하지_못한_선수.java)
+- ❌ [둘만의 암호](./src/algorithm/programmers/lv1/둘만의_암호.java)
