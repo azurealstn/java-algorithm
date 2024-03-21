@@ -69,3 +69,6 @@
 - ❌ [숫자 짝궁](./src/algorithm/programmers/lv1/숫자_짝궁.java)
 - ✅ [완주하지 못한 선수](./src/algorithm/programmers/lv1/완주하지_못한_선수.java)
 - ❌ [둘만의 암호](./src/algorithm/programmers/lv1/둘만의_암호.java)
+- ✅ [이웃한 칸](./src/algorithm/programmers/lv1/이웃한_칸.java)
+- ❌ [햄버거 만들기](./src/algorithm/programmers/lv1/햄버거_만들기.java)
+- ✅ [크레인 인형뽑기](./src/algorithm/programmers/lv1/크레인_인형뽑기.java)
