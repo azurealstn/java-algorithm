@@ -72,3 +72,5 @@
 - ✅ [이웃한 칸](./src/algorithm/programmers/lv1/이웃한_칸.java)
 - ❌ [햄버거 만들기](./src/algorithm/programmers/lv1/햄버거_만들기.java)
 - ✅ [크레인 인형뽑기](./src/algorithm/programmers/lv1/크레인_인형뽑기.java)
+- ❌ [키패드 누르기](./src/algorithm/programmers/lv1/키패드_누르기.java)
+- ❌ [성격 유형 검사하기](./src/algorithm/programmers/lv1/성격_유형_검사하기.java)
