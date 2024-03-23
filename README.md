@@ -74,3 +74,5 @@
 - ✅ [크레인 인형뽑기](./src/algorithm/programmers/lv1/크레인_인형뽑기.java)
 - ❌ [키패드 누르기](./src/algorithm/programmers/lv1/키패드_누르기.java)
 - ❌ [성격 유형 검사하기](./src/algorithm/programmers/lv1/성격_유형_검사하기.java)
+- ✅ [신규 아이디 추천](./src/algorithm/programmers/lv1/데이터_분석.java)
+- ✅ [데이터 분석](./src/algorithm/programmers/lv1/신규_아이디_추천.java)
