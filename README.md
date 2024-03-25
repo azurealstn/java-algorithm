@@ -78,3 +78,5 @@
 - ✅ [데이터 분석](./src/algorithm/programmers/lv1/데이터_분석.java)
 - ✅ [바탕화면 정리](./src/algorithm/programmers/lv1/바탕화면_정리.java)
 - ✅ [개인정보 수집 유효기간](./src/algorithm/programmers/lv1/개인정보_수집_유효기간.java)
+- ✅ [공원 산책](./src/algorithm/programmers/lv1/공원_산책.java)
+- ❌ [신고 결과 받기](./src/algorithm/programmers/lv1/신고_결과_받기.java)
