@@ -80,3 +80,5 @@
 - ✅ [개인정보 수집 유효기간](./src/algorithm/programmers/lv1/개인정보_수집_유효기간.java)
 - ✅ [공원 산책](./src/algorithm/programmers/lv1/공원_산책.java)
 - ❌ [신고 결과 받기](./src/algorithm/programmers/lv1/신고_결과_받기.java)
+- ❌ [붕대 감기](./src/algorithm/programmers/lv1/붕대_감기.java)
+- ❌ [가장 많이 받은 선물](./src/algorithm/programmers/lv1/가장_많이_받은_선물.java)
