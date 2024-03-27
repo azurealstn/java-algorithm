@@ -82,3 +82,6 @@
 - ❌ [신고 결과 받기](./src/algorithm/programmers/lv1/신고_결과_받기.java)
 - ❌ [붕대 감기](./src/algorithm/programmers/lv1/붕대_감기.java)
 - ❌ [가장 많이 받은 선물](./src/algorithm/programmers/lv1/가장_많이_받은_선물.java)
+- ✅ [최댓값과 최솟값](./src/algorithm/programmers/lv2/최댓값과_최솟값.java)
+- ✅ [JadenCase 문자열 만들기](./src/algorithm/programmers/lv2/JadenCase_문자열_만들기.java)
+- ✅ [최솟값 만들기](./src/algorithm/programmers/lv2/최솟값_만들기.java)
