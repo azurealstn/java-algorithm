@@ -85,3 +85,6 @@
 - ✅ [최댓값과 최솟값](./src/algorithm/programmers/lv2/최댓값과_최솟값.java)
 - ✅ [JadenCase 문자열 만들기](./src/algorithm/programmers/lv2/JadenCase_문자열_만들기.java)
 - ✅ [최솟값 만들기](./src/algorithm/programmers/lv2/최솟값_만들기.java)
+- ✅ [올바른 괄호](./src/algorithm/programmers/lv2/올바른_괄호.java)
+- ✅ [이진 변환 반복하기](./src/algorithm/programmers/lv2/이진_변환_반복하기.java)
+- ✅ [숫자의 표현](./src/algorithm/programmers/lv2/숫자의_표현.java)
